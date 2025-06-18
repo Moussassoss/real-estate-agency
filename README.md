@@ -1,7 +1,3 @@
-Sure! Here's a sample `README.md` for your custom real estate template. You can customize the sections with your specific details:
-
----
-
 # 🏡 Custom Real-Estate-Agency Template
 
 Welcome to the **Custom Real Estate Template** — a modern, responsive, and customizable template designed specifically for real estate agencies, property listings, and individual realtors. Showcase properties, capture leads, and provide an excellent user experience.
@@ -44,14 +40,12 @@ Welcome to the **Custom Real Estate Template** — a modern, responsive, and cus
 * Integrate Google Maps API for live map functionality
 * Add form validation and spam protection for contact forms
 
+---
 ## Visit The Website
+
 <a href="https://moussassoss.github.io/real-state-agency/" target="_blank">Live Demo</a>
 
-
+---
 ## 📄 License
 
 MIT License — free to use and modify for personal or commercial use.
-
-## 🙋 Support
-
-If you encounter any issues or have suggestions, feel free to open an issue or contact me at \[[your-email@example.com](mailto:your-email@example.com)].
