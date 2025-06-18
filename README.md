@@ -2,7 +2,7 @@ Sure! Here's a sample `README.md` for your custom real estate template. You can 
 
 ---
 
-# 🏡 Custom Real Estate Template
+# 🏡 Custom Real-Estate-Agency Template
 
 Welcome to the **Custom Real Estate Template** — a modern, responsive, and customizable template designed specifically for real estate agencies, property listings, and individual realtors. Showcase properties, capture leads, and provide an excellent user experience.
 
@@ -30,18 +30,6 @@ Welcome to the **Custom Real Estate Template** — a modern, responsive, and cus
 2. **Open the project**:
    Open `index.html` in your browser to get started.
 
-3. *(Optional)* Set up a local server for development:
-
-   ```bash
-   # If using Python 3
-   python -m http.server
-   ```
-
-4. *(Optional)* Install dependencies (if any):
-
-   ```bash
-   npm install
-   ```
 
 ## 🧩 Customization
 
@@ -56,9 +44,9 @@ Welcome to the **Custom Real Estate Template** — a modern, responsive, and cus
 * Integrate Google Maps API for live map functionality
 * Add form validation and spam protection for contact forms
 
-## 📸 Screenshots
+## Visit The Website
+<a href="https://example.com" target="_blank">Live Demo</a>
 
-*(Include screenshots or a demo link here)*
 
 ## 📄 License
 
