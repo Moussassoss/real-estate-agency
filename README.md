@@ -43,7 +43,7 @@ Welcome to the **Custom Real Estate Template** — a modern, responsive, and cus
 ---
 ## Visit The Website
 
-<a href="https://moussassoss.github.io/real-state-agency/" target="_blank">Live Demo</a>
+<a href="https://moussassoss.github.io/real-estate-agency/" target="_blank">Live Demo</a>
 
 ---
 ## 📄 License
