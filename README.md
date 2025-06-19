@@ -20,7 +20,7 @@ Welcome to the **Custom Real Estate Template** — a modern, responsive, and cus
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/real-estate-template.git
+   git clone https://github.com/Moussassoss/real-estate-agency.git
    ```
 
 2. **Open the project**:
